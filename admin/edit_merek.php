@@ -33,7 +33,7 @@ $result = mysql_query($sql);
                                 <button class="btn btn-primary" type="submit" name="edit_mrk" style="font-size: 10px; padding: 4px 3px;">Simpan</button>
                             </td>
                             <td>
-                                <a class="btn" href="?hp" style="font-size: 10px; padding: 4px 3px;">Batal</a>
+                                <!--<a class="btn" href="?hp" style="font-size: 10px; padding: 4px 3px;">Batal</a>-->
                             </td>
                         </tr>
                     </form>
