@@ -96,7 +96,7 @@ if(isset($_GET['merek'])){
 
 ?>
      <?php
- echo '<div style="width:100%; text-align:center;float:left">'.$page.'</div>';
+ //echo '<div style="width:100%; text-align:center;float:left">'.$page.'</div>';
 ?>
 </div><!-- span10 -->
 
