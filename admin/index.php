@@ -35,7 +35,7 @@ session_start();
         <div class="span8 offset2" style="background-color:#fff; padding-left:auto;">
         <h3>Silahkan Masuk</h3>';
     if(isset($_POST['login'])){
-        isError($errors);
+        isError($error);
     }
     echo '<form action="index.php" method="POST">
         <label>Nama Pengguna</label><input type="text" name="username">
